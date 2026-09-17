@@ -58,7 +58,7 @@ const galleryItems = [
   },
 
  {
-    image: "/rpgr-conference.jpg",
+    image: "/rpgr-conference.JPG",
     title: "Research Presentation at RPGR 2023",
     description:
       "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",

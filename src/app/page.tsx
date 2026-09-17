@@ -457,7 +457,7 @@ export default function Home() {
             <div className="rpgr-photo-card">
 
               <img
-                src="/rpgr-presentation.jpg"
+                src="/rpgr-presentation.JPG"
                 alt="Dr. Abdul Kaium Mia presenting research at RPGR 2023"
               />
 
