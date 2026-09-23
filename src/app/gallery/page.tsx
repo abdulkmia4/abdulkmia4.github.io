@@ -1,12 +1,5 @@
 const galleryItems = [
-  {
-    image: "/labmate 2026.jpeg",
-    title: "Research Presentation at RPGR 2023",
-    description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
-    category: "Conference Presentation",
-  },
-
+ 
  {
     image: "/covocation 2025.jpg",
     title: "IIT Guwahati Convocation, 2025",
@@ -23,38 +16,38 @@ const galleryItems = [
   },
  {
     image: "/PhD Lab members.jpg",
-    title: "Research Presentation at RPGR 2023",
+    title: "Lab Group Photo with Labmates 2025",
     description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
+      "Last group photo with the labmates after PhD thesis defence at Centre for Nanotechnology IIT Guwahati, India.",
     category: "Last photo with PhD Labmates",
   },
  {
     image: "/defenceday.jpg",
-    title: "Research Presentation at RPGR 2023",
+    title: "Group Photo After Defence 2025",
     description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
+      "After the thesis defence, Guwahati, India.",
     category: "Moments with Defence members",
   },
   {
     image: "/Defence image.jpg",
-    title: "Research Presentation at RPGR 2023",
+    title: "Group Photo After Defence 2025",
     description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
+      "PhD thesis defecnce members.",
     category: "Moments with Defence members",
   },
 {
     image: "/FINS 2024.jpg",
-    title: "Research Presentation at RPGR 2023",
+    title: "Research Presentation at FINS 2024",
     description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
+      "Presenting my research at Frontiers in Nano Sciences 2024, Research conference, Guwahati, India.",
     category: "Conference Presentation",
   },
  {
     image: "/Teachers day 2023.jpg",
     title: "Research Presentation at RPGR 2023",
     description:
-      "Presenting research on two-dimensional materials at the Recent Progress in Graphene and 2D Materials Research conference, Bengaluru, India.",
-    category: "Conference Presentation",
+      "Group Photo After Tecahers' day celebration 2023, Bengaluru, India.",
+    category: "Teachers'Day 2023",
   },
 
  {

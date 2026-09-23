@@ -25,12 +25,12 @@ const cvdImages = [
 
 const heterostructureImages = [
   {
-    src: "/research/heterostructures/hetero-01.jpg",
+    src: "/research/heterostructures/hetero-01.JPG",
     description:
       "In-situ growth of WS₂–MoS₂ lateral heterostructures with engineered interfaces.",
   },
   {
-    src: "/research/heterostructures/hetero-02.jpg",
+    src: "/research/heterostructures/hetero-02.JPG",
     description:
       "Characterization of the interface between two-dimensional semiconductor domains.",
   },
@@ -53,14 +53,19 @@ const optoelectronicsImages = [
 
 const magneticImages = [
   {
-    src: "/research/magnetic/magnetic-01.jpg",
+    src: "/research/magnetic/magnetic-02.JPG",
     description:
-      "CVD-grown magnetic 2D material investigated for its magnetic properties.",
+      "Large scale CVD-Growth of 2D CoS2.",
   },
   {
-    src: "/research/magnetic/magnetic-02.jpg",
+    src: "/research/magnetic/magnetic-03.JPG",
     description:
-      "Magnetotransport measurements of a magnetic 2D-material-based device.",
+      "Large scale CVD-Growth of 2D CoS2.",
+  },
+{
+    src: "/research/magnetic/magnetic-01.JPG",
+    description:
+      "Hall bar device fabricated on CVD-grown magnetic 2D CoS2",
   },
 ];
 
@@ -650,31 +655,7 @@ export default function Home() {
               </div>
 
             </article>
-
-
-            {/* M.Sc. */}
-
-            <article className="education-item">
-
-              <div className="education-year">
-                2015 — 2017
-              </div>
-
-              <div className="education-content">
-
-                <h3>
-                  M.Sc. in Physics
-                </h3>
-
-                <p className="education-institution">
-                  Indian Institute of Technology Kharagpur
-                </p>
-
-              </div>
-
-            </article>
-
-
+            
             {/* JRF */}
 
             <article className="education-item">
@@ -699,12 +680,34 @@ export default function Home() {
                   doctoral research, with hands-on exposure to experimental
                   nanomaterials research.
                 </p>
+               </div>
+
+            </article>
+
+            {/* M.Sc. */}
+
+            <article className="education-item">
+
+              <div className="education-year">
+                2015 — 2017
+              </div>
+
+              <div className="education-content">
+
+                <h3>
+                  M.Sc. in Physics
+                </h3>
+
+                <p className="education-institution">
+                  Indian Institute of Technology Kharagpur
+                </p>
 
               </div>
 
             </article>
 
 
+           
             {/* B.Sc. */}
 
             <article className="education-item">
